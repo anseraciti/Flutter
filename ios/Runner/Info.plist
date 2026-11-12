@@ -26,6 +26,10 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Permitir tirar fotos para adicionar às suas receitas.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Permitir escolher fotos para adicionar às suas receitas.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
